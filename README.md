@@ -23,7 +23,7 @@ Vue-cli + element + eCharts
 ``` bash
 # install dependencies（安装）
 npm install
-
+npm install babel-plugin-istanbul echarts --save-dev
 # serve with hot reload at localhost:8080（运行）
 npm run dev
 
